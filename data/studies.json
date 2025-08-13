@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Cross-Cultural Negotiation in Latin America",
+    "authors": ["Jane Doe", "John Smith"],
+    "year": 2022,
+    "countries": ["Mexico", "Brazil"],
+    "topics": ["Negotiation", "Leadership"],
+    "institution": "University of Global Business",
+    "languages": ["English", "Spanish"],
+    "journal": "International Journal of Business Studies",
+    "impact_factor": 3.5,
+    "summary": "A comparative study of negotiation styles in Mexico and Brazil.",
+    "link": "https://example.com/study1"
+  },
+  {
+    "id": 2,
+    "title": "Leadership Styles in Francophone Africa",
+    "authors": ["Amina Ndiaye"],
+    "year": 2023,
+    "countries": ["Senegal", "Ivory Coast"],
+    "topics": ["Leadership", "Culture"],
+    "institution": "African Business Institute",
+    "languages": ["French"],
+    "journal": "African Business Review",
+    "impact_factor": 2.8,
+    "summary": "Explores leadership approaches in French-speaking African countries.",
+    "link": "https://example.com/study2"
+  }
+]
